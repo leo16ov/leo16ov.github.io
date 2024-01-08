@@ -3,7 +3,7 @@ function saludar() {
     }
 
 function Nrowhatsapp(){
-    alert("Numero de Whatsapp: +54 9 11 7018-2763")
+    alert("Numero de Whatsapp: +54 9 11 xxxx-xxxx")
 }
 
 function modoscuro() {
